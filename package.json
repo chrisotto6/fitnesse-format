@@ -1,0 +1,25 @@
+{
+  "name": "fitnesse-format",
+  "version": "1.0.0",
+  "description": "NPM package to format fitnesse wiki.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisotto6/fitnesse-format.git"
+  },
+  "keywords": [
+    "fitnesse",
+    "format",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Chris Otto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisotto6/fitnesse-format/issues"
+  },
+  "homepage": "https://github.com/chrisotto6/fitnesse-format#readme"
+}
