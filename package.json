@@ -2,9 +2,9 @@
   "name": "fitnesse-format",
   "version": "1.0.0",
   "description": "NPM package to format fitnesse wiki.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/chrisotto6/fitnesse-format/issues"
   },
-  "homepage": "https://github.com/chrisotto6/fitnesse-format#readme"
+  "homepage": "https://github.com/chrisotto6/fitnesse-format#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
