@@ -392,8 +392,8 @@ function WikiFormatter() {
   };
 }
 
-const format = new WikiFormatter();
-
-module.exports = {
-  format
+module.exports = function(str) {
+  var formatter = new WikiFormatter();
+  var done = formatter.format(str);
+  return done;
 };
