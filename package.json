@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/chrisotto6/fitnesse-format#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^25.1.0"
   }
 }
